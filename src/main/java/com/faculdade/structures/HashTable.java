@@ -2,7 +2,7 @@ package com.faculdade.structures;
 
 import java.util.LinkedList;
 
-// Tabela hash genérica simples para chave (K) e valor (V)
+// Tabela hash genérica para chave (K) e valor (V)
 public class HashTable<K, V> {
 
     // Par chave-valor
